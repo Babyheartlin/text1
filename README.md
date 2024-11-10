@@ -6,3 +6,4 @@ you con execute main.py.python,you can see "hello world"
 ```
 priint("hi")
 ```
+test
